@@ -315,6 +315,38 @@ var markers = [
     description:
       "<table style='width:250px;'><tbody><tr><td style='font-family:Raleway, Helvetica, sans-serif; font-size:11pt; color:#0d79b9; font-weight:bold;'>Meerut:</td></tr><tr><td style='color:#333'><strong>Mr. Alexander.S,</strong></td></tr><tr><td style='color:#333'>520/3,</td></tr><tr><td style='color:#333'>Sasthri Nagar</td></tr><tr><td style='color:#333'>Meerut-250002</td></tr><tr><td style='color:#333'>Ph: 0121-325617</td></tr><tr><td style='color:#333'>Mob: 09358585802</td></tr></tbody></table>",
   },
+  {
+    title: "Delhi",
+
+    lat: 28.690563,
+
+    lng: 77.133416,
+
+    description:
+      "<table style='width:250px;'>                    <tbody><tr>                          <td style='font-family:Arial, Helvetica, sans-serif; font-size:11pt; color:#0d79b9; font-weight:bold;'>Delhi:</td>                          </tr>                        <tr>                          <td style='color:#333'><strong>Mr. Arjunaraj.S</strong></td>                          </tr>                        <tr>                          <td>203A, Apra Plaza, IInd Floor</td>                          </tr>                        <tr>                          <td>Road NO.44, 29, Community Centre,</td>                        </tr>                        <tr>                          <td>Pitampura (Rani Bagh)</td>                        </tr>                        <tr>                          <td>New Delhi - 110 034</td>                        </tr>                        <tr>                          <td>PH: 011 - 3260 9942/43, 32619941</td>                        </tr>                        <tr>                          <td>Fax : 011-42644323</td>                        </tr>                        <tr>                          <td>Mob: 09312884994</td>                        </tr>                        </tbody></table>",
+  },
+
+  {
+    title: "Gwalior",
+
+    lat: 26.220284,
+
+    lng: 78.206504,
+
+    description:
+      "<table style='width:250px;'>                        <tbody><tr>                          <td style='font-family:Arial, Helvetica, sans-serif; font-size:11pt; color:#0d79b9; font-weight:bold;'>Gwalior:</td>                          </tr>                        <tr>                          <td style='color:#333'><strong>MR.Ramasamy.R</strong></td>                        </tr>                        <tr>                          <td>372 -A, Jiwaji Nagar,</td>                        </tr>                        <tr>                          <td>Thatipur,</td>                        </tr>                        <tr>                          <td>Gwalior - 474 011.</td>                        </tr>                        <tr>                          <td>PH: 0751-3293619</td>                        </tr>                        <tr>                          <td>Mob: 09335697989</td>                        </tr>                        </tbody></table>",
+  },
+
+  {
+    title: "Coimbatore",
+
+    lat: 11.024747,
+
+    lng: 76.898037,
+
+    description:
+      "<table  style='width:250px;'>                        <tbody><tr>                          <td style='font-family:Arial, Helvetica, sans-serif; font-size:11pt; color:#0d79b9; font-weight:bold;'>Coimbatore</td>                          </tr>                        <tr>                          <td style='color:#333'><strong>Mr.Jeyavelan.S</strong></td>                          </tr>                        <tr>                          <td>NO 18A, NORTH FACE,</td>                          </tr>                        <tr>                          <td> 1ST FLOOR,KALIYAPPAN LAYOUT,</td>                        </tr>                        <tr>                          <td>K.K.PUDHUR, COIMBATORE - 641038.</td>                        </tr>                        <tr>                          <td>Tamil Nadu</td>                        </tr>                        <tr>                          <td>Ph: 0422-3258884</td>                        </tr>                        <tr>                          <td>Mob: 9363248555</td>                        </tr>                        </tbody></table>",
+  },
 ];
 
 window.onload = function () {
